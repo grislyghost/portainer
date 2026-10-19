@@ -16,7 +16,7 @@ require (
 	github.com/aws/smithy-go v1.24.0
 	github.com/cbroglie/mustache v1.4.0
 	github.com/compose-spec/compose-go/v2 v2.9.1
-	github.com/containerd/containerd v1.7.30
+	github.com/containerd/containerd v1.7.36
 	github.com/containerd/errdefs v1.0.0
 	github.com/dchest/uniuri v0.0.0-20200228104902-7aecb25e1fe5
 	github.com/distribution/reference v0.6.0
@@ -58,11 +58,11 @@ require (
 	go.etcd.io/bbolt v1.4.3
 	go.podman.io/image/v5 v5.37.0
 	go.yaml.in/yaml/v3 v3.0.4
-	golang.org/x/crypto v0.48.0
+	golang.org/x/crypto v0.52.0
 	golang.org/x/exp v0.0.0-20260112195511-716be5621a96
-	golang.org/x/mod v0.32.0
+	golang.org/x/mod v0.35.0
 	golang.org/x/oauth2 v0.34.0
-	golang.org/x/sync v0.19.0
+	golang.org/x/sync v0.20.0
 	helm.sh/helm/v4 v4.1.4
 	k8s.io/api v0.35.1
 	k8s.io/apimachinery v0.35.1
@@ -337,10 +337,10 @@ require (
 	go.uber.org/goleak v1.3.0 // indirect
 	go.uber.org/mock v0.6.0 // indirect
 	go.yaml.in/yaml/v2 v2.4.3 // indirect
-	golang.org/x/net v0.50.0 // indirect
-	golang.org/x/sys v0.41.0 // indirect
-	golang.org/x/term v0.40.0 // indirect
-	golang.org/x/text v0.34.0 // indirect
+	golang.org/x/net v0.55.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
+	golang.org/x/term v0.43.0 // indirect
+	golang.org/x/text v0.37.0 // indirect
 	golang.org/x/time v0.14.0 // indirect
 	golang.org/x/tools/godoc v0.1.0-deprecated // indirect
 	google.golang.org/api v0.265.0 // indirect
