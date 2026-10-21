@@ -36,7 +36,7 @@ require (
 	github.com/hashicorp/golang-lru v0.6.0
 	github.com/joho/godotenv v1.5.1
 	github.com/jpillora/chisel v1.11.6
-	github.com/klauspost/compress v1.18.3
+	github.com/klauspost/compress v1.18.7
 	github.com/koding/websocketproxy v0.0.0-20181220232114-7ed82d81a28c
 	github.com/kubernetes/kompose v1.37.0
 	github.com/opencontainers/go-digest v1.0.0
