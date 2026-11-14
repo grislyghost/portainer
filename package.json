@@ -101,7 +101,7 @@
     "globals": "^15.15.0",
     "i18next": "^21.3.3",
     "i18next-browser-languagedetector": "^6.1.2",
-    "i18next-http-backend": "^3.0.4",
+    "i18next-http-backend": "^4.0.4",
     "jquery": "^3.6.0",
     "js-base64": "^3.7.2",
     "jsdom": "^24",
